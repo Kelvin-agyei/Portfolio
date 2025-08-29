@@ -1,7 +1,1 @@
-[build]
-  command = npm run build
- commandOrigin: config
-environment:      - NODE_VERSION
-   publish: /opt/build/repo/build
-publishOrigin: config
 
