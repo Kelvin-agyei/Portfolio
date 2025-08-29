@@ -1,6 +1,7 @@
 [build]
-  command = "npm run build"
-  publish = "build"
-  [build.environment]
-  NODE_VERSION = "24.7.0"
+  command = npm run build
+ commandOrigin: config
+environment:      - NODE_VERSION
+   publish: /opt/build/repo/build
+publishOrigin: config
 
