@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS.
@@ -200,3 +201,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or need help customizing your portfolio, feel free to reach out!
 
+=======
+# Portfolio
+A brief description of my skills on a portfolio website
+>>>>>>> 91d818e4aed7a7a7798cdde40d346f004b0ade5a
